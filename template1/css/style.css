@@ -1,0 +1,31 @@
+.navbar {
+    background-color: var(--bs-primary);
+}
+
+.navbar-brand {
+    color: white;
+    padding-left: 0 !important;
+    margin: 0 50px 0 0;
+}
+
+.nav-link {
+    color: white;
+    padding-left: 1.0rem !important;
+    padding-right: 1.0rem !important;
+}
+
+.nav-link:hover {
+    color: black !important;
+}
+
+.navbar-nav > .active {
+    color: black !important;
+}
+
+.nav-gap {
+    padding: 8px 1px !important;
+} 
+
+.content {
+    height: 900px;
+}
