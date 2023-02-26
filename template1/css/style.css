@@ -29,3 +29,7 @@
 .content {
     height: 900px;
 }
+
+.navbar-collapse {
+    transition: all .5s;
+}
